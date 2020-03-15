@@ -1,0 +1,9 @@
+{
+    "domain": "aligenie",
+    "name": "Ali Aligenie",
+    "documentation": "https://www.home-assistant.io/integrations/aligenie",
+    "requirements": [],
+    "dependencies": ["http", "climate", "fan", "light", "media_player", "switch", "vacuum"],
+    "codeowners": []
+  }
+  
